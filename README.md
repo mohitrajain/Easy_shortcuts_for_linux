@@ -7,7 +7,7 @@ It can be used for every operating system that supports python .
 <h2>To enable these shortcuts with your every login then add following entires in .bash_profile file .</h2>
 
 ```
-.bash_profile
+# .bash_profile
 
 shortcuts(){
 path_toscript/Shortcuts.py > /dev/null &

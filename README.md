@@ -21,7 +21,7 @@ shortcuts
 ```
 
 
-<h3>To kill/stop this program <h3>
+<h3>To kill/stop this program </h3>
 ```
 killall Shortcuts.py
 ```
